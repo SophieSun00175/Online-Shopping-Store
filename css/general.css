@@ -1,0 +1,178 @@
+/*Sets the font size and left margin for the item name in product details page*/
+.product-details-product-name {
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+/*Sets the size and left margin for the star img in product details page*/
+.stars img {
+    width: 120px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+/*Sets the font  and left margin for the price in product details page*/
+.product-details-price {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+/*Sets the color and left margin for the inventory in product details page*/
+.product-details-inventory {
+    color: mediumseagreen;
+    margin-left: 20px;
+}
+
+/*Sets the font and left margin for the buttons in product details page*/
+.Purchase-quantity-button-group {
+    font-size: 0%;
+    margin-left: 20px;
+}
+
+/*Sets the color and left margin for the drop-down lists in product details page*/
+.Purchase-quantity-button-group input {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightslategrey;
+
+    text-align: center;
+    vertical-align: middle;
+    display: inline;
+    float: left;
+
+}
+
+/*Sets the radius for the button in product details page*/
+.Purchase-quantity-button-minus input {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+/*Sets the radius for the button in product details page*/
+.Purchase-quantity-button-plus input {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+/*Sets the color and left margin for the drop-down lists in product details page*/
+.Purchase-quantity-button-group select {
+    font-size: 20px;
+    width: 60px;
+    height: 40px;
+    padding-left: 20px;
+    border: 1px solid lightslategrey;
+    border-left: 0px;
+    border-right: 0px;
+    vertical-align: middle;
+
+
+    display: inline;
+    float: left;
+}
+
+/*Sets the padding for the check stock in product details page*/
+.product-details-check-stock {
+    padding-left: 20px;
+}
+
+/*Sets the padding for the shop more in product details page*/
+.product-details-shop-more {
+    padding-left: 20px;
+}
+
+/*Sets the padding and argin for the more list in product details page*/
+.product-details-shop-more-list {
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+/*Sets the margin for the shop more list in product details page*/
+.product-details-shop-more-list a {
+    margin-left: 15px;
+
+}
+
+/*Sets the display for thebutton select in product details page*/
+.Purchase-quantity-button-minus select {
+    display: inline;
+
+}
+
+/*Sets the size,color,border and margin for the add to bag button in product details page*/
+.Purchase-button-add-to-bag input {
+    width: 300px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    border: 0px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 2px solid #f44336;
+}
+
+.Purchase-button-add-to-bag input:hover {
+    width: 300px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #f44336;
+    color: white;
+}
+
+/*Sets the margin for the wishilist in product details page*/
+.Purchase-button-add-to-wishilist {
+    margin-left: 20px;
+}
+
+/*nar bar font size*/
+.menu {
+    font-size: 20px;
+}
+
+/*formatting grid of the filter and products info*/
+.myContainer {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
+
+/*Sets the width for the carousel-inner img in home page*/
+.carousel-inner img {
+    width: 400px;
+}
+
+/*Sets the size and overflow for the carousel-inner img in home page*/
+.carousel-inner-home-page img {
+    width: auto;
+    height: 180px;
+    overflow: hidden;
+}
+
+
+
+
+/*add margin to visually seperate different product rows*/
+.imgbox {
+    margin-bottom: 30px;
+}
+
+.home-page-slideshow {
+    width: 800px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
+
+/*change the font size of the footer card*/
+.myfooter {
+    font-size: 11px;
+}
